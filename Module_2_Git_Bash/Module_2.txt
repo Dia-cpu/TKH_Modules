@@ -1,0 +1,8 @@
+a. what is git and how is it different than GitHub
+	Git is a controlled systems programming language it allows for multi versions of a project to accessed and modifized at once until being finalized it also tracks all the history of the project. GitHub however is a web based repository that can interact with Git to share to the web world. In function it is to aid a development team when tackling large scale projects.
+b. Why use the terminal
+	Using the terminal is tool its helpful when  working with directories and has powerful commands you will have access to. Its a lot more streamlined when working with big projects to just be able to find the file that named. Besides just Git you can learn other programming languages that may use this terminal like Django. 
+c. Explain 3 Benefits of version control in your own words
+	1.The benefits of version control are being able to modify mutli copies of the main line code.
+	2.Storing Versions for later date to compare the changes can be useful in knowing what was better than and now
+	3.It helps support devloper workflow, one team can work on the same concept of a project why the other can do the same thing and conpare which of them did it better or where changes need to be focused.
